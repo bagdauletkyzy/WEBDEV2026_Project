@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.5.
@@ -58,17 +57,3 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# WEBDEV2026_Project 
-Project Name: Recipio 
-
-Students: 
-Razuan Togzhan, 24B031966
-Bagdauletkyzy Akbota, 24B030991
-Mukhambet Nuray, 24B031895
-practice time:Wednesday 17:00-19:00
-
-Recipe & Meal Planner is a full-stack web application that allows registered users to browse, create, and manage recipes, as well as plan their weekly meals. The platform provides a clean, intuitive interface for home cooks to organise their culinary life in one place.
- 
-Users can register and log in securely, build a personal recipe library with ingredients, browse recipes by category, and schedule meals across a weekly calendar. All data is tied to the authenticated user, ensuring a personalised and private experience.
->>>>>>> 4314620515cf4c8a93994c4864b54b3179fb1aa3
